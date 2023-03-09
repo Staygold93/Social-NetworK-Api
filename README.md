@@ -1,5 +1,6 @@
 # Social-NetworK-Api
-API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using 
+Node.js, Mongoose and Express. 
 
 
 
@@ -15,7 +16,23 @@ API for a social network web application where users can share their thoughts, r
 ![image](https://user-images.githubusercontent.com/112224915/223897623-18fa08cb-481d-4eef-a498-b49de73b7225.png)
 
 
+## Technoligies
+
+* Node.js
+
+* Mongoose
+
+* MongoDB
+
+* Express.js
+
+* Javascript
 
 
+## Developer 
+
+* Aldo Perez , 
+* Github: Staygold93
+* Email: Perezaldo99@gmail.com
 
 
