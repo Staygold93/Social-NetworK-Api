@@ -1,7 +1,17 @@
-# Social-Network-Api
+## User Story 
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
+
+
+## Description
 API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using 
 Node.js, Mongoose and Express. 
 
+## Installation
+
+* npm i all dependencies 
+* npm start
 
 
 
