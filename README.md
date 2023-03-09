@@ -10,7 +10,7 @@ Node.js, Mongoose and Express.
 
 ## Installation
 
-* npm i all dependencies 
+* npm i all required dependencies 
 * npm start
 
 
